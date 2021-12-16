@@ -99,8 +99,6 @@ geom_histogram(binwidth = 1)+
 by(df$User.Type, df$City, table)
 summary(df$Birth.Year)
 
-summary(df[which(df$User.Type == "Subscriber" & df$City == "Chicago"), "Birth.Year"])
-summary(df[which(df$User.Type == "Subscriber" & df$City == "New York"), "Birth.Year"])
 
 fd = subset(df, !(df$City == "Washington")) # subseted as it does not have Gender information
 fd = subset(fd, !is.na(fd$User.Type) & !is.na(fd$Gender)) # removing missings
