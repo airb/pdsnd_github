@@ -1,5 +1,5 @@
 # Udacity's Explore Bike Share Data Project
-## 2021-12-16
+### 2021-12-16
 
 
 ### Description
@@ -18,7 +18,7 @@ The explored data from Chicago, New York City, and Washington is not included. T
 
 
 ### Credits
-- [Programming for Data Science with R Nanodegree Program](https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118)
+* [Programming for Data Science with R Nanodegree Program](https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118)
 * [Chris Saden](https://github.com/csaden)
 * [Guy Lebanon](https://www.linkedin.com/in/guylebanon/)
 * [Richard Kalehoff](https://github.com/richardkalehoff)
