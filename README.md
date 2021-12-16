@@ -14,7 +14,7 @@ The code is for answering three questions:
 Included in the repository:
 * _Explore_bikeshare_data.R_
 
-The explored data from Chicago, New York City, and Washington is not included (available at Udacity's Programming for Data Science with R course).
+The explored data from Chicago, New York City, and Washington is not included. The data was provided by Motivate[https://www.motivateco.com/], a bike share system provider for many major cities in the United States, to uncover bike share usage patterns
 
 
 ### Credits
