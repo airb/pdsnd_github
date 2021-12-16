@@ -1,6 +1,6 @@
-# **Udacity's Explore Bike Share Data Project **
-> 2021-12-16
-<br />
+# Udacity's Explore Bike Share Data Project
+## 2021-12-16
+
 
 ### Description
 This R script is to explore data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington.
