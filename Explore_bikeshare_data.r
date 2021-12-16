@@ -47,7 +47,7 @@ by(df$User.Type, df$City, table)
 table(df$Gender, exclude = NULL)
 names(table(df$Gender, exclude = NULL))
 
-# We are goint to change those "" into NA, so they are not reprresented.
+# We are goint to change those "" into NA, so they are not represented.
 df[which(df$Gender == ""),"Gender"] = NA
 table(df$Gender, exclude = NULL)
 
